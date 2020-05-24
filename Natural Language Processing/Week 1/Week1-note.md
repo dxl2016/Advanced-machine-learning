@@ -5,9 +5,14 @@
 * Deep Learning architectures, e.g. Recurrent and Convolutional Neural Networks
 * Python programming and willingness to learn new tool, e.g. Tensorflow.
 
-text pre-preocessing, semantic analysis, text classification
+text pre-preocessing, sentiment analysis, text classification
 * tokenization, NLTK, normalization (stemming/lemmatization), casing, acronyms, etc.
-* feature extraction: BOW, add orders, n-grams, filter out bad n-grams, tf-idf, 
+* feature extraction: BOW, add orders, n-grams, filter out bad n-grams, tf-idf with row normalization
+* linear models over BOW scale well, e.g., logistic regression + 1-gram
+* spam filtering, hash functions, personalized
+* vowpal wabbit
+
+
 
 
 
