@@ -11,6 +11,7 @@ text pre-preocessing, sentiment analysis, text classification
 * linear models over BOW scale well, e.g., logistic regression + 1-gram
 * spam filtering, hash functions, personalized
 * vowpal wabbit
+* using Google Colab to open notebooks in a GitHub repository
 
 
 
