@@ -5,7 +5,7 @@
 * Deep Learning architectures, e.g. Recurrent and Convolutional Neural Networks
 * Python programming and willingness to learn new tool, e.g. Tensorflow.
 
-text pre-preocessing, sentiment analysis, text classification
+* text pre-preocessing, sentiment analysis, text classification
 * tokenization, NLTK, normalization (stemming/lemmatization), casing, acronyms, etc.
 * feature extraction: BOW, add orders, n-grams, filter out bad n-grams, tf-idf with row normalization
 
@@ -13,10 +13,12 @@ text pre-preocessing, sentiment analysis, text classification
 * spam filtering, hash functions, personalized
 * vowpal wabbit
 
-* one-hot vectors + NN (dense) rather than BOW (sparse) using word2vec embeddings
+* one-hot encoded manner, vectors + NN (dense) rather than BOW (sparse) using word2vec embeddings
 * n-gram conv filtering provides high activations, sliding windows, can learn some higher meaningful features than 1-gram, called 1Dconv, words occur on time axis, take the max activations of filters to reduce variable size to 1
-
-
+* embeddings, 1Dconv kernels, max poolings
+* deep models work better for large datasets
+* traditional/baseline approaches, like BOW, but do not track orders/sequences
+* can use convnet on top of characters (called learning from scratch)
 
 * using Google Colab to open notebooks in a GitHub repository
 
