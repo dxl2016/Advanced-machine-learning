@@ -4,7 +4,7 @@
 * Optimization techniques, e.g. (stochastic) gradient descent
 * Deep Learning architectures, e.g. Recurrent and Convolutional Neural Networks
 * Python programming and willingness to learn new tool, e.g. Tensorflow.
-\n
+<br/><br/>
 * text pre-preocessing, sentiment analysis, text classification
 * tokenization, NLTK, normalization (stemming/lemmatization), casing, acronyms, etc.
 * feature extraction: BOW, add orders, n-grams, filter out bad n-grams, tf-idf with row normalization
