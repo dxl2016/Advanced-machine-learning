@@ -10,7 +10,7 @@
 * feature extraction: BOW, add orders, n-grams, filter out bad n-grams, tf-idf with row normalization
 <br/><br/>
 * linear models over BOW scale well, e.g., logistic regression + 1-gram
-* spam filtering, hash functions, personalized
+* spam filtering, hash functions, personalized hash encoding
 * vowpal wabbit
 <br/><br/>
 * one-hot encoded manner, vectors + NN (dense) rather than BOW (sparse) using word2vec embeddings
