@@ -15,7 +15,7 @@
 <br/><br/>
 * one-hot encoded manner, vectors + NN (dense) rather than BOW (sparse) using word2vec embeddings
 * n-gram conv filtering provides high activations, sliding windows, can learn some higher meaningful features than 1-gram, called 1Dconv, words occur on time axis, take the max activations of filters to reduce variable size to 1
-* **embeddings, 1Dconv kernels, max poolings, padding**
+* **embeddings, 1Dconv kernels, max poolings, padding, flatten**
 * deep models work better for large datasets
 * traditional/baseline approaches, like BOW, but do not track orders/sequences
 * can use convnet on top of characters (called learning from scratch)
